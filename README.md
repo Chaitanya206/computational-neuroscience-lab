@@ -1,10 +1,6 @@
 # 🌌 **Computational Neuroscience Lab**  
 ### *Emotion & Spike Modeling — A Brain-Inspired AI Project*
 
-<p align="center">
-  <img src="images/cover.png" width="750px">
-</p>
-
 ---
 
 <p align="center">
@@ -143,12 +139,4 @@ Great for:
 This is a personal learning/research project.  
 Feedback, suggestions, or collaboration ideas are welcome.
 
-📧 Email: *add yours here*  
-🔗 LinkedIn: *your profile link*
-
----
-
-## ⭐ **License**
-
-MIT License
 
