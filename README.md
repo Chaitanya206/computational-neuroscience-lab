@@ -1,23 +1,38 @@
-🌌 Computational Neuroscience Lab
-Emotion & Spike Modeling — A Brain-Inspired AI Project
-<p align="center"> <img src="images/cover.png" width="750px"> </p>
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" /> <img src="https://img.shields.io/badge/Neuroscience-Computational-green?logo=brain" /> <img src="https://img.shields.io/badge/ML-ScikitLearn-yellow?logo=scikitlearn" /> <img src="https://img.shields.io/badge/Project-Research_Oriented-purple?logo=github" /> </p>
-🧠 Overview
+# 🌌 **Computational Neuroscience Lab**  
+### *Emotion & Spike Modeling — A Brain-Inspired AI Project*
 
-This project explores how neurons fire, how emotional circuits behave, and how AI can classify emotions from spike trains.
+<p align="center">
+  <img src="images/cover.png" width="750px">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Neuroscience-Computational-green?logo=brain" />
+  <img src="https://img.shields.io/badge/ML-ScikitLearn-yellow?logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Project-Research_Oriented-purple?logo=github" />
+</p>
+
+---
+
+## 🧠 **Overview**
+
+This project explores **how neurons fire**, how emotional circuits behave, and how **AI can classify emotions** from spike trains.  
 It combines:
 
-Computational Neuroscience 🧬
+- Computational Neuroscience 🧬  
+- Spike Train Modeling ⚡  
+- Brain-Inspired AI 🤖  
+- Research Documentation 📄  
 
-Spike Train Modeling ⚡
+This repository contains my complete learning + project journey for preparing for the **OIST Research Internship (Fall 2026)**.
 
-Brain-Inspired AI 🤖
+---
 
-Research Documentation 📄
+## 📁 **Repository Structure**
 
-This repository contains my complete learning + project journey for preparing for the OIST Research Internship (Fall 2026).
-
-📁 Repository Structure
+```
 computational-neuroscience-lab/
 │
 ├── README.md
@@ -53,80 +68,87 @@ computational-neuroscience-lab/
 └── images/
     ├── diagrams/
     └── cover.png
+```
 
-🚀 Project Goals
-🔵 Phase 1 — Theory
+---
 
-✔ Day 1: Time-Step Mechanics (dt)
-✔ Day 2: Voltage Update Logic
-✔ Day 3: Spike Trains
-✔ Day 4: Emotional Circuits
-🔜 Day 5: Spike Features for ML
+## 🚀 **Project Goals**
 
-🔴 Phase 2 — Coding
+### 🔵 **Phase 1 — Theory**
+✔ Day 1: Time-Step Mechanics (dt)  
+✔ Day 2: Voltage Update Logic  
+✔ Day 3: Spike Trains  
+✔ Day 4: Emotional Circuits  
+🔜 Day 5: Spike Features for ML  
 
-🔜 LIF Single-Neuron Model
-🔜 Multi-Neuron Emotional Circuit
-🔜 Emotional Spike Train Dataset
-🔜 ML Feature Extraction
-🔜 Emotion Classifier
+### 🔴 **Phase 2 — Coding**
+🔜 LIF Single-Neuron Model  
+🔜 Multi-Neuron Emotional Circuit  
+🔜 Emotional Spike Train Dataset  
+🔜 ML Feature Extraction  
+🔜 Emotion Classifier  
 
-🟢 Phase 3 — Research
+### 🟢 **Phase 3 — Research**
+🔜 Paper Notes  
+🔜 Final Project Report  
 
-🔜 Paper Notes
-🔜 Final Project Report
+---
 
-🌈 Why This Project Matters
+## 🌈 **Why This Project Matters**
 
 This project represents a unique intersection of:
 
-Neuroscience (how neurons encode information)
+- **Neuroscience** (how neurons encode information)  
+- **Psychology** (how emotions arise from circuits)  
+- **Artificial Intelligence** (how ML learns patterns from spikes)  
+- **Visualization** (spike trains, voltage curves, emotional rhythms)  
 
-Psychology (how emotions arise from circuits)
-
-Artificial Intelligence (how ML learns patterns from spikes)
-
-Visualization (spike trains, voltage curves, emotional rhythms)
-
-It showcases the ability to learn deep scientific concepts, simulate neural behavior, and build an AI classifier inspired by biological neurons.
+It showcases the ability to learn **deep scientific concepts**, simulate neural behavior, and build an AI classifier inspired by **biological neurons**.
 
 Great for:
+- Research internships (OIST, RIKEN, MITACS)  
+- ML/AI applications  
+- Neuroscience labs  
+- Portfolio building  
 
-Research internships (OIST, RIKEN, MITACS)
+---
 
-ML/AI applications
+## 🛠️ **Tools & Technologies**
 
-Neuroscience labs
+- Python 3  
+- NumPy  
+- SciPy  
+- Matplotlib  
+- Scikit-Learn  
+- Jupyter Notebook  
+- Markdown  
 
-Portfolio building
+---
 
-🛠️ Tools & Technologies
+## 📊 **Project Status**
 
-Python 3
+| Component | Status |
+|----------|--------|
+| Day 1–4 Notes | ✔ Completed |
+| Diagrams | ✔ Completed |
+| LIF Neuron Model | ⏳ Upcoming |
+| Emotional Circuit Simulation | ⏳ Upcoming |
+| ML Classifier | ⏳ Planned |
+| Research Notes | ⏳ Planned |
 
-NumPy, SciPy
+---
 
-Matplotlib
+## 🤝 **Let's Connect**
 
-Scikit-Learn
-
-Jupyter Notebook
-
-Markdown + Handwritten Notes
-
-📊 Project Status
-Component	Status
-Day 1–4 Notes	✔ Completed
-Diagrams	✔ Completed
-LIF Neuron Model	⏳ Upcoming
-Emotional Circuit Simulation	⏳ Upcoming
-ML Classifier	⏳ Planned
-Research Notes	⏳ Planned
-🤝 Let's Connect
-
-This is a personal learning/research project.
+This is a personal learning/research project.  
 Feedback, suggestions, or collaboration ideas are welcome.
 
-GitHub profile README (your main profile)
+📧 Email: *add yours here*  
+🔗 LinkedIn: *your profile link*
 
-A profile badge board
+---
+
+## ⭐ **License**
+
+MIT License
+
