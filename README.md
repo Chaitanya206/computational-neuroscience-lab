@@ -1,142 +1,121 @@
-# 🌌 **Computational Neuroscience Lab**  
-### *Emotion & Spike Modeling — A Brain-Inspired AI Project*
+# 🧠 Computational Neuroscience Lab  
+### Emotion & Spike Modeling — A Brain-Inspired AI Project
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Neuroscience](https://img.shields.io/badge/Field-Neuroscience-purple)
+![Computational](https://img.shields.io/badge/Type-Computational-green)
+![ML](https://img.shields.io/badge/ML-Scikit--Learn-orange)
+![Project](https://img.shields.io/badge/Project-Research--Oriented-red)
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Neuroscience-Computational-green?logo=brain" />
-  <img src="https://img.shields.io/badge/ML-ScikitLearn-yellow?logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Project-Research_Oriented-purple?logo=github" />
-</p>
+## 🧠 Overview
 
----
+This project explores how neurons fire, how neural circuits behave, and how brain-inspired computational models can be used to represent and analyze information.
 
-## 🧠 **Overview**
+The work focuses on **spike-based neuron modeling**, **neural circuit dynamics**, and their extension toward **emotion-inspired AI systems**.
 
-This project explores **how neurons fire**, how emotional circuits behave, and how **AI can classify emotions** from spike trains.  
 It combines:
 
-- Computational Neuroscience 🧬  
-- Spike Train Modeling ⚡  
-- Brain-Inspired AI 🤖  
-- Research Documentation 📄  
+- 🧬 Computational Neuroscience  
+- ⚡ Spike Train Modeling  
+- 🤖 Brain-Inspired Artificial Intelligence  
+- 📄 Research Documentation  
 
-This repository contains my complete learning + project journey for preparing for the **OIST Research Internship (Fall 2026)**.
+This repository documents my **learning + project journey** while preparing for advanced research internships in computational neuroscience (including OIST).
 
 ---
 
-## 📁 **Repository Structure**
+## 🔬 Core Concepts Implemented
 
-```
+### 🧠 Neuron Modeling
+- Leaky Integrate-and-Fire (LIF) neuron
+- Membrane potential dynamics
+- Threshold-based spike generation
+- Refractory period modeling
+- Firing rate analysis
+
+### 🔗 Neural Circuits
+- Two-neuron circuit (presynaptic → postsynaptic)
+- Spike-driven synaptic input
+- Temporal synaptic integration
+- Excitation–inhibition balance
+- Causal signal propagation
+
+### 📊 Visualization
+- Membrane voltage plots
+- Spike train (raster-style) plots
+- Comparative neuron activity analysis
+
+---
+
+## 📁 Repository Structure
+
 computational-neuroscience-lab/
 │
-├── README.md
+├── neuron_models/
+│ └── notebooks/
+│ ├── lif_neuron.ipynb
+│ ├── two_neuron_circuit.ipynb
+│
+├── images/
+│ └── diagrams/
 │
 ├── notes/
-│   ├── day1_time_step.md
-│   ├── day2_voltage_update.md
-│   ├── day3_spike_trains.md
-│   ├── day4_emotional_circuits.md
-│   ├── day5_spike_features.md
-│   └── scanned/
-│
-├── neuron_models/
-│   ├── lif_single_neuron.ipynb
-│   ├── lif_single_neuron.py
-│   ├── multi_neuron_circuit.ipynb
-│   └── multi_neuron_circuit.py
-│
-├── emotion_simulation/
-│   ├── emotion_inputs.md
-│   ├── spike_trains/
-│   └── spike_plots/
-│
-├── ml_model/
-│   ├── feature_extraction.ipynb
-│   ├── ml_emotion_classifier.ipynb
-│   └── model_results/
 │
 ├── research/
-│   ├── paper_notes/
-│   └── project_report.md
+│ └── paper_notes/
 │
-└── images/
-    ├── diagrams/
-    └── cover.png
-```
+├── ml_model/
+│ └── model_results/
+│
+├── emotion_simulation/
+│
+└── README.md
+
 
 ---
 
-## 🚀 **Project Goals**
+## 🎯 Motivation
 
-### 🔵 **Phase 1 — Theory**
-✔ Day 1: Time-Step Mechanics (dt)  
-✔ Day 2: Voltage Update Logic  
-✔ Day 3: Spike Trains  
-✔ Day 4: Emotional Circuits  
-🔜 Day 5: Spike Features for ML  
+The goal of this project is to build **intuition-first**, biologically grounded computational models that explain how neural activity emerges from simple rules.
 
-### 🔴 **Phase 2 — Coding**
-🔜 LIF Single-Neuron Model  
-🔜 Multi-Neuron Emotional Circuit  
-🔜 Emotional Spike Train Dataset  
-🔜 ML Feature Extraction  
-🔜 Emotion Classifier  
+Rather than focusing on performance or accuracy alone, the emphasis is on:
+- understanding neural dynamics
+- interpreting circuit behavior
+- connecting neuroscience concepts to AI systems
 
-### 🟢 **Phase 3 — Research**
-🔜 Paper Notes  
-🔜 Final Project Report  
+This approach aligns closely with research-driven environments and interdisciplinary neuroscience labs.
 
 ---
 
-## 🌈 **Why This Project Matters**
+## 🚧 Current Status
 
-This project represents a unique intersection of:
+🟢 **Active & Ongoing**
 
-- **Neuroscience** (how neurons encode information)  
-- **Psychology** (how emotions arise from circuits)  
-- **Artificial Intelligence** (how ML learns patterns from spikes)  
-- **Visualization** (spike trains, voltage curves, emotional rhythms)  
+Planned extensions include:
+- spike-train feature extraction
+- statistical analysis of neural activity
+- ML-based classification using spike features
+- higher-level emotion-inspired simulations
 
-It showcases the ability to learn **deep scientific concepts**, simulate neural behavior, and build an AI classifier inspired by **biological neurons**.
-
-Great for:
-- Research internships (OIST, RIKEN, MITACS)  
-- ML/AI applications  
-- Neuroscience labs  
-- Portfolio building  
+The repository will be progressively refined as the project evolves.
 
 ---
 
-## 🛠️ **Tools & Technologies**
+## 🛠 Tools & Technologies
 
-- Python 3  
+- Python 3.10  
 - NumPy  
-- SciPy  
 - Matplotlib  
-- Scikit-Learn  
 - Jupyter Notebook  
-- Markdown  
+- Scikit-learn (planned usage)
 
 ---
 
-## 📊 **Project Status**
+## 📝 Note
 
-| Component | Status |
-|----------|--------|
-| Day 1–4 Notes | ✔ Completed |
-| Diagrams | ✔ Completed |
-| LIF Neuron Model | ⏳ Upcoming |
-| Emotional Circuit Simulation | ⏳ Upcoming |
-| ML Classifier | ⏳ Planned |
-| Research Notes | ⏳ Planned |
+This repository reflects a **research learning process**.  
+Some notebooks prioritize clarity and experimentation over optimization and will be cleaned and modularized in later stages.
 
 ---
-
-## 🤝 **Let's Connect**
-
-This is a personal learning/research project.  
-Feedback, suggestions, or collaboration ideas are welcome.
-
-
