@@ -49,32 +49,6 @@ This repository documents my **learning + project journey** while preparing for 
 
 ---
 
-## 📁 Repository Structure
-
-computational-neuroscience-lab/
-├── neuron_models/
-│   └── notebooks/
-│       ├── lif_neuron.ipynb
-│       └── two_neuron_circuit.ipynb
-│
-├── images/
-│   └── diagrams/
-│
-├── notes/
-│
-├── research/
-│   └── paper_notes/
-│
-├── ml_model/
-│   └── model_results/
-│
-├── emotion_simulation/
-│
-└── README.md
-
-
-
----
 
 ## 🎯 Motivation
 
